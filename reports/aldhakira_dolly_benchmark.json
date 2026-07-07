@@ -1,0 +1,35 @@
+{
+  "source": "C:\\Projects\\almeezan\\data\\external\\databricks-dolly-15k\\databricks-dolly-15k.jsonl",
+  "index": "C:\\Projects\\aldhakira\\indexes\\dolly15k",
+  "index_meta": {
+    "source": "C:\\Projects\\almeezan\\data\\external\\databricks-dolly-15k\\databricks-dolly-15k.jsonl",
+    "chunks": 14862,
+    "sources": 1,
+    "tokens": 66382,
+    "redactions": 26,
+    "max_chars": 1400,
+    "elapsed_seconds": 6.816781899979105
+  },
+  "processed": 12000,
+  "top_k": 5,
+  "recall_at_k": 0.986,
+  "hits": 11832,
+  "misses": 168,
+  "errors": 12,
+  "latency_ms": {
+    "mean": 1849.967342166863,
+    "p50": 1839.6729000087362,
+    "p95": 2018.5684000025503,
+    "p99": 2173.1147000100464,
+    "max": 2501.3588999863714
+  },
+  "memory_mb": {
+    "current": 0.470775,
+    "peak": 93.796593
+  },
+  "elapsed_seconds": 22200.54253930002,
+  "collapse_check": {
+    "passed": false,
+    "criteria": "errors == 0"
+  }
+}

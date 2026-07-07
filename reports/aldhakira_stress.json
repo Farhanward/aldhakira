@@ -1,0 +1,23 @@
+{
+  "index": "C:\\Projects\\aldhakira\\indexes\\dolly15k",
+  "queries": 4,
+  "repeat": 3,
+  "processed": 12,
+  "errors": 0,
+  "empty": 0,
+  "latency_ms": {
+    "mean": 11.905758331219355,
+    "p95": 19.71719998982735,
+    "p99": 20.115399995120242,
+    "max": 20.115399995120242
+  },
+  "memory_mb": {
+    "current": 64.41792,
+    "peak": 86.932367
+  },
+  "elapsed_seconds": 1.891938700020546,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
